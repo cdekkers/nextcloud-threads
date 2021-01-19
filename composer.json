@@ -1,0 +1,15 @@
+{
+    "name": "Threads",
+    "description": "Adds communication via threads",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Cas Dekkers"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
